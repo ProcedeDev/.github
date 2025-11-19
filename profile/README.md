@@ -97,8 +97,8 @@ Para membros internos da PROCEDE:
 
 ## 📬 Contato
 
-**Website:** https://procedebahia.com.br  
-**E-mail:** contato@procedebahia.com.br
+**Website:** https://procede.org
+**E-mail:** 
 
 ---
 
